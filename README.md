@@ -23,3 +23,31 @@ This is a simple Alien Invasion game implemented in Python using the Pygame libr
 2. Clone this repository: 
 3. Install the required dependencies:
 
+   
+## Usage
+
+Run the `alien_invasion.py` file using Python:
+
+
+## Controls
+
+- Use the arrow keys to move the ship.
+- Press the spacebar to shoot projectiles.
+
+## Screenshots
+
+![Gameplay](alien_invasion_play.gif)
+
+
+## To Do
+
+- Implement scoring system.
+- Add sound effects and background music.
+
+
+## Connect
+
+- Website: [YourWebsite.com](https://www.yourwebsite.com)
+- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- Email: yourname@example.com
+
