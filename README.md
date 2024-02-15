@@ -51,3 +51,12 @@ Run the `alien_invasion.py` file using Python:
 - Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
 - Email: yourname@example.com
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
